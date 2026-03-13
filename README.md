@@ -15,3 +15,7 @@ The goal is to take raw transaction data, load it into a database, and transform
 - `data/raw` for raw source data
 - `scripts` for Python ETL scripts
 - `sql` for SQL transformations
+
+# Business Problem
+
+Credit card companies need to detect fraudulent transactions so customers are not charged incorrectly.
