@@ -16,6 +16,14 @@ The goal is to take raw transaction data, load it into a database, and transform
 - `scripts` for Python ETL scripts
 - `sql` for SQL transformations
 
+- ## Data
+
+The full dataset is not included in this repository due to GitHub file size limits.
+
+Access it here:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 # Business Problem
 
 Credit card companies need to detect fraudulent transactions so customers are not charged incorrectly.
