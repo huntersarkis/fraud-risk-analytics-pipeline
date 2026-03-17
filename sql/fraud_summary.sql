@@ -4,3 +4,5 @@ SELECT
     SUM(Class) AS total_fraud_transactions,
     SUM(Class) * 1.0 / COUNT(*) AS fraud_Rate
 FROM raw_transactions
+
+SELECT * FROM fraud_summary;

@@ -18,3 +18,5 @@ CASE
     WHEN amount_bucket = '100-500' THEN 3
     ELSE 4
 END;
+
+SELECT * FROM fraud_by_amount_bucket;
